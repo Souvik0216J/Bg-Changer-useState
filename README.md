@@ -9,7 +9,7 @@ This is a simple React application using UseState, that allows users to change t
 - Built using React and Tailwind CSS
 
 ## Demo
-You can try the live demo here: [Demo Link](#https://bg-changer-flame.vercel.app/) 
+You can try the live demo here: [Demo Link](https://bg-changer-flame.vercel.app/) 
 
 ## Installation
 To run this project locally, follow these steps:
