@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 function App() {
+  // UseState help to change set of any variable
   const [BgColor, setBgColor] = useState("black")
 
 
